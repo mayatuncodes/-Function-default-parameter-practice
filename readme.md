@@ -1,4 +1,5 @@
-avaScript Function Practice
+
+26-2 Function default parameter for not provided values
 
 এই ফাইলে আমি JavaScript এর Function, Parameter, Default Parameter, এবং Basic Operations প্র্যাকটিস করেছি।
 
